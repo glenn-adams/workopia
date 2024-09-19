@@ -1,0 +1,22 @@
+{
+  "name": "glenn_adams/workopia",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Brad Taversey",
+      "email": "support@traversymedia.com",
+      "role": "Developed class project"
+    },
+    {
+      "name": "Glenn Adams",
+      "email": "gadams885@gmail.com",
+      "role": "modify class project"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
